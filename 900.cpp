@@ -1,3 +1,9 @@
+/*  #combinatorics
+    This is a UVA mathmatical problem here I tried to implement (n)!/((m)!*(p)!)
+problem link--->https://onlinejudge.org/external/9/900.pdf
+*/
+
+
 #include<bits/stdc++.h>
 #define ll long long
 using namespace std;
